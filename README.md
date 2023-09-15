@@ -25,7 +25,7 @@ Example with yourID is 123abc456:
 adb shell settings put global private_dns_specifier 123abc456.dns.nextdns.io
 ```
 
-Or with yourID, Identify your devices:
+Or with yourID, identify your devices:
 ```bash
 adb shell settings put global private_dns_specifier DeviceName-yourID.dns.nextdns.io
 ```
